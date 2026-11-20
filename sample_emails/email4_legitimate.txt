@@ -1,0 +1,9 @@
+From: Priya Sharma <priya.sharma@company-example.com>
+Subject: Team meeting notes for Tuesday
+
+Hi Ravi,
+
+Here are the notes from Tuesday's meeting. Let me know if I missed anything before Friday's review.
+
+Regards,
+Priya

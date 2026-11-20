@@ -1,0 +1,11 @@
+From: PayPal Support <security@paypa1-verify.xyz>
+Subject: URGENT: Your account has been suspended
+
+Dear customer,
+
+We noticed unusual activity. Your account will be locked within 24 hours unless you verify your account immediately and confirm your password.
+
+[www.paypal.com/verify](http://185.23.44.9/login)
+
+Thank you,
+PayPal Security
